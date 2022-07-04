@@ -1,0 +1,7 @@
+{
+  "name": "healthmonkstart61",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
